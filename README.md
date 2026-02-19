@@ -1,4 +1,4 @@
-# 📊 SQL para Análise de Dados | Portfólio
+# 📊 SQL para Análise de Dados
 
 Este repositório contém exercícios e projetos práticos desenvolvidos durante meus estudos em SQL (MySQL e SQL Server), com foco em análise de dados e modelagem relacional.
 
