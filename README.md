@@ -1,4 +1,4 @@
-# 📊 SQL para Análise de Dados jhjhj
+# 📊 SQL para Análise de Dados jh
 
 Este repositório contém exercícios e projetos práticos desenvolvidos durante meus estudos em SQL (MySQL), com foco em análise de dados e modelagem relacional.
 
